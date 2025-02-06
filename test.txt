@@ -1,3 +1,7 @@
 aciklama:test 1 dosyasidir
+<<<<<<< HEAD
 deyisdim
 IKINCI REPODAYAM DEYISIKLIYI CEKMEDEN PUSH EDECEM
+=======
+AMIN ABASOV ESASDAYAM
+>>>>>>> 0fa265ff1c7b262e9a29fa4a80c43fefc42cb935
