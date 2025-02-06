@@ -1,1 +1,3 @@
 aciklama:test 1 dosyasidir
+deyisdim
+IKINCI REPODAYAM DEYISIKLIYI CEKMEDEN PUSH EDECEM
